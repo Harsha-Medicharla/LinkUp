@@ -2,7 +2,6 @@
 
 A real-time collaboration platform that enables developers to connect via WebRTC for seamless video conferencing, screen sharing, and collaborative coding sessions.
 
-![LiveConnect]
 
 ## Features
 
